@@ -2,7 +2,6 @@
 <img
     src="./assets/cover.webp"
     width="300"
-    style="border-radius: 20%; width: 300px; height: 300px; object-fit: cover;"
 />
 </p>
 
